@@ -1,0 +1,3 @@
+
+./configure --prefix=/opt/nettle --libdir=/opt/nettle/lib
+
